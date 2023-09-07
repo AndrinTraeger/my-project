@@ -1,1 +1,1 @@
-# my-project
+# Shop is available on: andrinshop.netlify.app
