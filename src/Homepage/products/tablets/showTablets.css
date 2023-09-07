@@ -1,0 +1,54 @@
+
+
+.bigcard{
+    background-color: #fff;
+    border-radius: 10px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    padding: 20px;
+    box-shadow: 1px 1px 6px 1px rgb(176, 176, 176);
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.slider{
+    display:flex;
+    place-content: center;
+    margin-right: auto;
+}
+.navimg{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 6%;
+    box-shadow: 1px 1px 6px 1px rgb(176, 176, 176);
+    margin: 2%;
+    cursor: pointer;
+}
+.pressImg{
+    width: 30%;
+}
+
+.goBack{
+    position: flex;
+    float: left;
+    width: 3%;
+    cursor: pointer;
+}
+@media only screen and (min-width: 321px) and (max-width:500px){
+.goBack{
+    width: 10%;
+    
+}
+@media only screen and (min-width: 1000px){
+    
+}
+
+.navimg{
+    width: 15%;
+}
+.pressImg{
+    width: 70%;
+}
+
+}
